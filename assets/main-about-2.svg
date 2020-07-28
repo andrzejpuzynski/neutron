@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="24 18 50 50">
+	<defs>
+		<image id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABKCAMAAADqiXjvAAAAAXNSR0IB2cksfwAAADZQTFRF////+vr65ubm19fXyMjIw8PDzc3N4eHh9fX1sLCw6+vrtLS0vr6+3Nzc0tLSubm58PDwr6+v2RQaZgAAAUxJREFUeJztl9uSgjAMQHsF0iLF///ZbW1FGLK7vTGjTs6LSpzTYmgSGSMIgiAI4p3hQiqtBznyK+zTABvKdNcbC3tkb32QzoM0Rso5vB+66rnfvb1tiym/gOjpXwDctPvsczH39DuAQ0q5v4Ge/pOO/F/l/2yEPhafiO5V5AQif9C8QCz0GtR6jk0KdKs/FkmACQuuYB+v9XdhIPnxcLruqtuZzvJX95oR8vyAZCeD0FPy/HV5XuDkNzO412a3MNxYOWt6yPf+0HlffSvGArYixRrxpwsnP6hi/QiI393hju2//Chzi/nDlHL8/Z/fKj4EDvMfy36TX5T5y4sElt9f/eX5ZRPm1/uztHs+0QL4D/J8vo60nS/GXa6/clQU19a37Pq8VOp9Ccrx1/cXtuT4G/4I8OT5s/82c938ELlu/nkucO38RhAE8Yn8ACkdEzt+xoo9AAAAAElFTkSuQmCC"/>
+	</defs>
+	<g id="mid">
+			<use href="#img1" x="0" y="0" />
+	</g>
+</svg>

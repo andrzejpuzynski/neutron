@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="12 9 50 50">
+	<defs>
+		<image id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAABECAMAAADtEXj5AAAAAXNSR0IB2cksfwAAADNQTFRF////9fX1w8PDzc3NsLCw19fX+vr60tLStLS08PDwubm56+vrvr6+3Nzc4eHh5ubmyMjIZpBMXwAAAXlJREFUeJztluuSgyAMhRUOd7R9/6fdUG1rRQLqzuzsrudnEz8OoZB03aVLf0C9kP1JggRJ6eMErQhgCGOPUpyxQNqIE4A3bjcgGE8exPxhIAri0IRxQZGksKkKH0s7Of0mDCWMgSmzwVMi936T8RUeyowRnpYZystMRi0Csxf4cvAtgI82HGJA5MKCc/lmiNOMAeY0Q0H9X0b6V/5OhsTtNCMP/zwDK30rIy/ah0bIOqPyR1xe6yLDg+1aLnteNmrKP2Mb8ZyhYXmGXT+GOaPyjG3UK2cMi7pvKjv7nCEx8ozMaM6oHEtXL3rX13uQqDlVtXI82iWfwDbKWZ7PGWsnOyVFpl9qy1+4OSvizgUbbFDhbbkXStbkQqE4o0jY1rFsxOb5aUI0FOMJsZCZZ6pFs4skZxFX+cHD75svHc1vy9unadxrLOfqo9flWiNbReZhHkunqX29tR1WaFJ/TO1HTEzq06Q+T+3HlSZ1cWwbC4mGyejSpbK+ACwZC5JjqWlEAAAAAElFTkSuQmCC"/>
+	</defs>
+	<g id="mid">
+			<use href="#img1" x="0" y="0" />
+	</g>
+</svg>
